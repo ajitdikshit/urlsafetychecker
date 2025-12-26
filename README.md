@@ -1,6 +1,6 @@
 # 🔍 URL Safety Checker
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web_Store-blue?logo=google-chrome)](https://chrome.google.com/webstore)]
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web_Store-blue?logo=google-chrome)](https://chrome.google.com/webstore)
 
 A **Chrome extension** that checks the current webpage's safety using **Google's Safe Browsing API**. Detects **malware**, **phishing**, and **social engineering** threats instantly.
 
