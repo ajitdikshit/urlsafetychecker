@@ -13,11 +13,6 @@ A **Chrome extension** that checks the current webpage's safety using **Google's
 - 🚀 **Works on all websites**
 - 📱 **Lightweight** (no bloat)
 
-## 🎯 Demo
-
-| Safe Page | Unsafe Page |
-|-----------|-------------|
-| ![Safe](https://via.placeholder.com/150x50/4CAF50/white?text=SAFE) | ![Unsafe](https://via.placeholder.com/150x50/f44336/white?text=UNSAFE) |
 
 ## 🚀 Quick Start
 
