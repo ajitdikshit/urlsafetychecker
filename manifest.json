@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "URL Safety Checker",
+  "version": "1.0",
+  "description": "Checks page safety using Google Safe Browsing API",
+  "permissions": ["activeTab", "tabs"],
+  "host_permissions": ["https://safebrowsing.googleapis.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Check URL Safety"
+  }
+}
