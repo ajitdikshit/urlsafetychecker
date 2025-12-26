@@ -6,7 +6,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 });
 
 async function checkUrlSafety(url) {
-  const API_KEY = process.env.SAFE_BROWSING_API_KEY || 'AIzaSyDOos0eZcRIzpTww93X_lGsOs0hbID0z1c';
+  const API_KEY = process.env.SAFE_BROWSING_API_KEY || 'your-key-here';
 
   
   const data = {
