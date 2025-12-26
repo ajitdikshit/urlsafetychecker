@@ -12,8 +12,3 @@ A **Chrome extension** that checks the current webpage's safety using **Google's
 - 🔄 **One-click checking** via popup
 - 🚀 **Works on all websites**
 - 📱 **Lightweight** (no bloat)
-
-
-## 🚀 Quick Start
-
-### 1. Get Google Safe Browsing API Key (FREE)
